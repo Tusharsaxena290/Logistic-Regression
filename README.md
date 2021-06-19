@@ -5,3 +5,7 @@ Logistic regression is the appropriate regression analysis to conduct when the d
 ## Formula for logit(p)
 
 <img width="283" alt="pic" src="https://user-images.githubusercontent.com/53862641/122635151-e14ba100-d0ff-11eb-8202-5ebce93b5d82.png">
+
+<br>
+
+On the RHS we see the interpretation of linear regression, hence what we can infer from this is that, there is relation between linear and logistic regression.
